@@ -18,7 +18,7 @@ It was developed as part of an **internship task**, showcasing the integration o
 ## 📊 Features
 
 - **ML Model**
-  - Preprocessed and balanced data using SMOTE / oversampling.
+  - Preprocessed and balanced data using SMOTE .
   - Trained XGBoost classifier achieving high accuracy.
   - Pickled model (`xgboost_churn_model.pkl`) for deployment.
 
@@ -42,6 +42,8 @@ Screenshots available in the /screenshots folder.
 - Churn Risk Analysis (High / Medium / Low)
 - Churn Drivers
 - Actionable Insights & Customer Deep Dive
+- Streamlit Form
+- Streamlit Result
 
 ---
 
